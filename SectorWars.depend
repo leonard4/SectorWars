@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1357291370 source:h:\sectorwars\celestial.cpp
+	"Celestial.h"
+
+1358053574 h:\sectorwars\celestial.h
+	<string>
+
+1372224750 source:h:\sectorwars\game.cpp
+	"Game.h"
+	<iostream>
+	<windows.h>
+
+1358053574 h:\sectorwars\game.h
+	"Region.h"
+	"Player.h"
+
+1358761750 h:\sectorwars\region.h
+	"Sector.h"
+
+1358053574 h:\sectorwars\sector.h
+	<string>
+	"Planet.h"
+	"Starport.h"
+	"Celestial.h"
+
+1372226412 h:\sectorwars\planet.h
+	<string>
+	"Player.h"
+
+1358053574 h:\sectorwars\starport.h
+	<string>
+
+1372226352 h:\sectorwars\player.h
+	<string>
+
+1358053574 source:h:\sectorwars\planet.cpp
+	"Planet.h"
+
+1358053574 source:h:\sectorwars\player.cpp
+	"Player.h"
+
+1358053674 source:h:\sectorwars\region.cpp
+	"Region.h"
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1361520100 source:h:\sectorwars\sector.cpp
+	<iostream>
+	"Sector.h"
+
+1357291370 source:h:\sectorwars\starport.cpp
+	"Starport.h"
+
+1355128804 source:h:\sectorwars\starship.cpp
+	"Starship.h"
+
+1358053574 h:\sectorwars\starship.h
+	<string>
+
+1358052798 source:h:\sectorwars\main.cpp
+	<iostream>
+	"Game.h"
+
+1357291370 source:g:\sectorwars\celestial.cpp
+	"Celestial.h"
+
+1372803744 g:\sectorwars\celestial.h
+	<string>
+	"Player.h"
+
+1372803508 source:g:\sectorwars\game.cpp
+	"Game.h"
+	<iostream>
+	<windows.h>
+
+1372805506 g:\sectorwars\game.h
+	"Region.h"
+	"Player.h"
+
+1358761750 g:\sectorwars\region.h
+	"Sector.h"
+
+1358053574 g:\sectorwars\sector.h
+	<string>
+	"Planet.h"
+	"Starport.h"
+	"Celestial.h"
+
+1372807430 g:\sectorwars\planet.h
+	<string>
+	"Player.h"
+
+1372226352 g:\sectorwars\player.h
+	<string>
+
+1372803744 g:\sectorwars\starport.h
+	<string>
+	"Player.h"
+
+1358052798 source:g:\sectorwars\main.cpp
+	<iostream>
+	"Game.h"
+
+1372807430 source:g:\sectorwars\planet.cpp
+	"Planet.h"
+
+1372226412 source:g:\sectorwars\player.cpp
+	"Player.h"
+
+1372803568 source:g:\sectorwars\region.cpp
+	"Region.h"
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1372807438 source:g:\sectorwars\sector.cpp
+	<iostream>
+	"Sector.h"
+
+1357291370 source:g:\sectorwars\starport.cpp
+	"Starport.h"
+
+1355128804 source:g:\sectorwars\starship.cpp
+	"Starship.h"
+
+1372226576 g:\sectorwars\starship.h
+	<string>
+
+1357291370 source:c:\users\leonard\desktop\sectorwars\celestial.cpp
+	"Celestial.h"
+
+1372811386 c:\users\leonard\desktop\sectorwars\celestial.h
+	<string>
+	"Player.h"
+
+1372226352 c:\users\leonard\desktop\sectorwars\player.h
+	<string>
+
+1372803508 source:c:\users\leonard\desktop\sectorwars\game.cpp
+	"Game.h"
+	<iostream>
+	<windows.h>
+
+1372805506 c:\users\leonard\desktop\sectorwars\game.h
+	"Region.h"
+	"Player.h"
+
+1358761750 c:\users\leonard\desktop\sectorwars\region.h
+	"Sector.h"
+
+1358053574 c:\users\leonard\desktop\sectorwars\sector.h
+	<string>
+	"Planet.h"
+	"Starport.h"
+	"Celestial.h"
+
+1372807430 c:\users\leonard\desktop\sectorwars\planet.h
+	<string>
+	"Player.h"
+
+1372803744 c:\users\leonard\desktop\sectorwars\starport.h
+	<string>
+	"Player.h"
+
+1358052798 source:c:\users\leonard\desktop\sectorwars\main.cpp
+	<iostream>
+	"Game.h"
+
+1372807430 source:c:\users\leonard\desktop\sectorwars\planet.cpp
+	"Planet.h"
+
+1372226412 source:c:\users\leonard\desktop\sectorwars\player.cpp
+	"Player.h"
+
+1372803568 source:c:\users\leonard\desktop\sectorwars\region.cpp
+	"Region.h"
+	<cstdlib>
+	<iostream>
+	<time.h>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1372807530 source:c:\users\leonard\desktop\sectorwars\sector.cpp
+	<iostream>
+	"Sector.h"
+
+1357291370 source:c:\users\leonard\desktop\sectorwars\starport.cpp
+	"Starport.h"
+
+1355128804 source:c:\users\leonard\desktop\sectorwars\starship.cpp
+	"Starship.h"
+
+1372226576 c:\users\leonard\desktop\sectorwars\starship.h
+	<string>
+

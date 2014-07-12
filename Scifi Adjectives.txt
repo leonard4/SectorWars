@@ -1,0 +1,123 @@
+Here are a few adjectives to add in:
+
+Ambient, annular, spatial, trans-, anaphasic, axionic, biomimetic, cosmic, duodynetic, dynamic, genetic, interphasic, isoiatic, magnascopic, metagenic, metaphasic, nuecleonic, osmotic, plasmonic, static, and subharmonic.
+
+Also you might want to add in:
+
+Confinement, energy, flux, impulse, plasma, vertion, particle, beam, bubble, burst, capacitor, conduit, converter, core, discriminator, field, scanner, sensor, shell, stream and string.
+
+.......Thousands......Hundreds........Tens........ .........Ones
+0...........................Quantum.......Effect.. .............Generator
+1......Random..............................Light.. ..............Inhibitor
+2...........................Morphic..........Conta inment......Compensator
+3...........................Laser.............Flux ..................Modulator
+4...........................Temporal.......Matter. .............Field
+5...........................Warp.................. ...................Inducer
+6...........................Heisenberg......Detect ion.........Disruptor
+7...........................Kinetic.............Fr equency.......Detector
+8...........................Anti-matter......Modulating........Grid
+9...........................Biological.......Anoma ly..........Transducer
+
+
+Verbs 		Adjectives 	Nouns
+Amplify 	Auxiliary 	Amplitude
+Configure 	Alternate 	Buffer
+Upload 		Automatic 	Conduit
+Compress 	Dynamic 	Coordinates
+Configure 	Electron 	Core
+Decompress 	External 	Data
+Decrease 	Finite 	Deflector
+Download 	Humanoid 	Drive
+Emit 		Infinite 	Emitter
+Fluctuate 	Internal 	Event Horizon
+Increase 	Kinetic 	Field
+Modify 		Linear 	Fluctuation
+Observe 	Multi-phase 	Generator
+Override 	Neural 	Hull Integrity
+Position 	Organic 	Matrix
+Recalibrate 	Phase 	Parameter
+Reflect 	Pneumatic 	Particle
+Reposition 	Positron 	Plasma
+Reprogram 	Primary 	Relay
+Reroute 	Quantum 	Rift
+Stratify 	Static 	Rupture
+Transfer 	Sub-light 	Shield
+Transmit 	Sub-space 	Singularity
+Uplink 		Temporal 	System
+Upload 		Trans- 	Theory
+
+Alderson disk (n.)
+arcology (n.)
+areography (n.)
+astrogate (v.)
+avatar (n.)
+Bernal sphere (n.)
+chrononaut (n.)
+Clarke ring (n.)
+Clarke’s First Law (n.)
+Clarke’s Second Law (n.)
+Clarke’s Third Law (n.)
+computronium (n.)
+contraterrene (adj.)
+Dyson sphere (n.)
+elsewhen (adv.)
+esper (n.)
+Faraday cage (n.)
+FTL (adj.)
+geas (n.)
+grey goo (n.)
+grok (v.)
+Jovian (adj.)
+kiloyear (n.)
+light cone (n.)
+light sail (n.)
+light-second (n.)
+Lofstrom loop (n.)
+mass-driver (n.)
+Matrioshka brain (n.)
+meatspace (n.)
+megastructure (n.)
+megayear (n.)
+mindfood (n.)
+nanotech (adj.)
+needler (n.)
+neutronium (n.)
+Niven ring (n.)
+O’Neill cylinder (n.)
+parking orbit (n.)
+precog (n.)
+pocket universe (n.)
+positronic (adj.)
+posthuman (n.)
+psi (n.)
+psychohistory (n.)
+quine (n.)
+ramscoop (n.)
+replicant (n.)
+rimworld (n.)
+ringwall (n.)
+Santa Claus machine (n.)
+sapient (n.)
+sentience (n.)
+Shkadov thruster (n.)
+Singularity (n.)
+skyhook (n.)
+sophont (n.)
+space elevator (n.)
+space fountain (n.)
+Stanford torus (n.)
+starwisp (n.)
+stellar engine (n.)
+superluminal (adj.)
+TANSTAAFL (n.)
+Tellurian (n.)
+terraform (v.)
+topopolis (n.)
+transhuman (n.)
+universal constructor (n.)
+uplift (n.)
+Von Neumann probe (n.)
+waldo (n.)
+wetware (n.)
+Whuffie (n.)
+xenology (n.)

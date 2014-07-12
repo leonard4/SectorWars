@@ -1,0 +1,24 @@
+
+I''m going to give an example of how to do it from the standpoint of Trade Wars 2002. You''ll probably have to modify it somewhat for whatever you are doing, but it should get you started.
+
+Create an array of 1000 sectors.
+
+Randomly pick a 5 to 25 sector group.
+For each of the sectors in the group:
+Connect it(A) to a random one(B) of the others
+Connect (B) to (A)
+
+Randomly pick 5 to 25 more sectors, but make sure they haven''t been picked before.
+Do the same loop to connect those sectors.
+
+After the final group is settled, you''ll have a selection of grouped sectors. The grouped sectors each should have their own name, like "The Marmalade Nebulae" or "Halaf Zone" or whatever. You should have 40-200 of these groups. You can, of course, adjust the amount by changing the amount of sectors per group.
+
+To connect these groups to each other, do something similar.
+
+Loop through each group and connect one to five or so of the sectors randomly to one of the other groups.
+
+This method still leaves the chance that there are sectors that cannot ever reach other sectors. You''d have to run through a pathfinding algorithm for each sector from the same starting point to be sure of that.
+
+There may be other problems with this, but it should get you thinking on your own.
+
+I don''t know if anyone ever wrote up how Trade Wars 2002 created their universe, but from what I could tell, it couldn''t have been that far off from the method I described. 
